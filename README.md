@@ -8,7 +8,7 @@ I promise to be thoughtful in my approach and be pragmatic about any ideas I pos
 - [ ] 3. What are blockchains ?
 - [ ] 4. How are blockchains different ? 
 
-======
+---
 # Development Report and Progress
 - [x] 1. Basic Layout
 - [ ] 2. Additional Formatting
@@ -16,7 +16,7 @@ I promise to be thoughtful in my approach and be pragmatic about any ideas I pos
 - [ ] 4. Adding content
 - [ ] 5. Unique visits tracker
 - [ ] 6. Live on git pages 
-======
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
