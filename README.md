@@ -10,10 +10,10 @@ I promise to be thoughtful in my approach and be pragmatic about any ideas I pos
 
 ---
 # Development Report and Progress
-- [x] 1. Basic Layout
-- [ ] 2. Additional Formatting
-- [ ] 3. Component Testing
-- [ ] 4. Adding content
+- [x] 1. Basic Layout - Home Layout, Individual layout ,Content and asset data
+- [ ] 2. Additional Formatting - Component refactoring, Layout change : colors, additional data
+- [ ] 3. Component Testing - Individual components, OOP
+- [ ] 4. Adding content - Refining content matter
 - [ ] 5. Unique visits tracker
 - [ ] 6. Live on git pages 
 ---
