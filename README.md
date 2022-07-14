@@ -3,19 +3,19 @@ This is what I deeply care about, this is where I'll put most of my ideas on in 
 I promise to be thoughtful in my approach and be pragmatic about any ideas I post here.
 
 # Check list for blogs
-- [] 1. Over the wire, levels and breakdown
-- [] 2. How internet businesses make money !
-- [] 3. What are blockchains ?
-- [] 4. How are blockchains different ? 
+- [ ] 1. Over the wire, levels and breakdown
+- [ ] 2. How internet businesses make money !
+- [ ] 3. What are blockchains ?
+- [ ] 4. How are blockchains different ? 
 
 ======
 # Development Report and Progress
-- [] 1. Basic Layout
-- [] 2. Additional Formatting
-- [] 3. Component Testing
-- [] 4. Adding content
-- [] 5. Unique visits tracker
-- [] 6. Live on git pages 
+- [x] 1. Basic Layout
+- [ ] 2. Additional Formatting
+- [ ] 3. Component Testing
+- [ ] 4. Adding content
+- [ ] 5. Unique visits tracker
+- [ ] 6. Live on git pages 
 ======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
