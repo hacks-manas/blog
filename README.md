@@ -17,6 +17,18 @@ I promise to be thoughtful in my approach and be pragmatic about any ideas I pos
 - [ ] 5. Unique visits tracker
 - [ ] 6. Live on git pages 
 ---
+
+## Tech stack
+  - JavaScript (logical framework)
+    - NextJS (server side rendering)
+    - npm packages
+      - gray-matter (to parse front matter section)
+      - markdown-it (markdown to html conversion)
+  - CSS
+    - Tailwindcss
+      - Tailwindcss typography
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
