@@ -12,9 +12,11 @@ Static Web application for blogging
 - Learning markdown parsing
 
 ## Demo
+
 Image : ![display v0.1](https://raw.githubusercontent.com/hacks-manas/blog/main/assets/images/v0.1.png)
 </br>
 Video :
+
 https://user-images.githubusercontent.com/62481581/180030712-a39ca5d4-52a2-4d43-adfd-7ac8c57f5820.mp4
 
 ## Usage
