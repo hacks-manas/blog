@@ -1,24 +1,36 @@
-# blog page for manas-hacks
-This is what I deeply care about, this is where I'll put most of my ideas on in a well documented format open to public.
-I promise to be thoughtful in my approach and be pragmatic about any ideas I post here.
+# Blog :scroll:
+A template for building responsive blog pages using tailwind, next js, markdown
 
-# Check list for blogs
-- [ ] 1. Over the wire, levels and breakdown
-- [ ] 2. How internet businesses make money !
-- [ ] 3. What are blockchains ?
-- [ ] 4. How are blockchains different ? 
+# Blog v0.1
+Static Web application for blogging
+* Parses markdown data as posts
+* Responsive and uses markdown meta-data for SEO
+* Uses NextJS for builds and TailWind for formatting
 
----
-# Development Report and Progress
-- [x] 1. Basic Layout - Home Layout, Individual layout ,Content and asset data
-- [ ] 2. Additional Formatting - Component refactoring, Layout change : colors, additional data
-- [ ] 3. Component Testing - Individual components, OOP
-- [ ] 4. Adding content - Refining content matter
-- [ ] 5. Unique visits tracker
-- [ ] 6. Live on git pages 
----
+## Purpose ?
+- Wanted to learn responsive design
+- Learning markdown parsing
 
-## Tech stack
+## Demo
+Image : 
+  ![display v0.1])(/assets/images/v0.1.png)
+  </br>
+Video :
+  https://raw.githubusercontent.com/hacks-manas/blog/main/assets/videos/v0.1.mp4
+
+## Usage
+- Clone the repository 
+- Switch to the pwd of clone
+- Next Read : [Getting-Started](#getting-started)
+
+## Dev Updates Tracker
+- [x] Basic Layout - Home Layout, Individual layout ,Content and asset data
+- [x] Additional Formatting - Component refactoring, Layout change : colors, additional data
+- [x] Add template content
+- [ ] Component Testing - Individual components, OOP
+- [ ] Unique visits tracker 
+
+## Tech Stack & Dependencies
   - JavaScript (logical framework)
     - NextJS (server side rendering)
     - npm packages
