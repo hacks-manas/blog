@@ -1,3 +1,34 @@
+# blog page for manas-hacks
+This is what I deeply care about, this is where I'll put most of my ideas on in a well documented format open to public.
+I promise to be thoughtful in my approach and be pragmatic about any ideas I post here.
+
+# Check list for blogs
+- [ ] 1. Over the wire, levels and breakdown
+- [ ] 2. How internet businesses make money !
+- [ ] 3. What are blockchains ?
+- [ ] 4. How are blockchains different ? 
+
+---
+# Development Report and Progress
+- [x] 1. Basic Layout - Home Layout, Individual layout ,Content and asset data
+- [ ] 2. Additional Formatting - Component refactoring, Layout change : colors, additional data
+- [ ] 3. Component Testing - Individual components, OOP
+- [ ] 4. Adding content - Refining content matter
+- [ ] 5. Unique visits tracker
+- [ ] 6. Live on git pages 
+---
+
+## Tech stack
+  - JavaScript (logical framework)
+    - NextJS (server side rendering)
+    - npm packages
+      - gray-matter (to parse front matter section)
+      - markdown-it (markdown to html conversion)
+  - CSS
+    - Tailwindcss
+      - Tailwindcss typography
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
